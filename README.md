@@ -1,0 +1,1 @@
+# custom-pmd-rule-example
